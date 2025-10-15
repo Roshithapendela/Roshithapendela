@@ -1,25 +1,29 @@
 <!-- README.md -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Roshithapendela/Roshithapendela/main/assets/coding.png" width="220" alt="Profile Cartoon"/>
-
 # Hi 👋, I'm Roshitha Pendela
 
-**Passionate Computer Science Student | Web Developer | Learner & Creator 🚀**
+Passionate Computer Science Student | AI Enthuasist |Robotics | Problem Solver 🚀**
 
 </div>
 
----
-
 ## 🌸 About Me
 
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Learning **Python, JavaScript, React**
-- 💬 Ask me about **HTML, CSS, UI Design**
-- 👩‍💻 Love building responsive web apps & solving problems with code
-- 🧠 Interested in **Machine Learning** & **AI**
-- ✍️ Sharing thoughts on [LinkedIn](https://www.linkedin.com/in/pendela-roshitha2)
-- 📫 Reach me: **pendelaroshitha@gmail.com**
+<div align="left">
+
+<img src="assets/download.png" width="220" align="right" alt="Profile Cartoon" style="border-radius: 10px; margin-left: 15px;"/>
+
+Hey there! I’m Roshitha Pendela, a passionate **Computer Science student** who loves exploring how technology can make ideas come alive.  
+I’m deeply interested in **Artificial Intelligence**, **Robotics**, and **Computer Vision (OpenCV)** — fields that truly excite my curiosity and creativity.  
+
+💻 I enjoy building **web applications** using **React, JavaScript, and Python**  
+🤖 Currently exploring **AI, Robotics, and OpenCV projects**  
+🌱 I believe in learning by doing — experimenting, failing, and improving every day  
+💬 Love sharing knowledge, collaborating on projects, and connecting with tech-minded people  
+✍️ Find my thoughts and updates on [LinkedIn](https://www.linkedin.com/in/pendela-roshitha2)  
+📫 Reach me anytime at pendelaroshitha@gmail.com
+
+</div>
 
 ---
 
@@ -46,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshithaPendela&show_icons=true&theme=radical" alt="Roshitha's GitHub stats" width="380"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RoshithaPendela&show_icons=true&theme=radical" alt="Roshitha's GitHub stats" width="380"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshithaPendela&layout=compact&theme=radical" alt="Top Languages" width="360"/>
 </div>
 
@@ -55,19 +59,12 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/roshithapendela" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/pendela-roshitha2" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:roshithapendela@gmail.com" target="_blank" title="Mail">
-    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" height="40" alt="Mail"/>
-  </a>
+ 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F27A1A&vCenter=true&width=380&lines=Thanks+for+visiting+my+profile!+😊;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div>
 
----
