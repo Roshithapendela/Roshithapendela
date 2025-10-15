@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Roshithapendela/Roshithapendela/main/assets/profile-cartoon.gif" width="220" alt="Profile Cartoon"/>
+<img src="https://raw.githubusercontent.com/Roshithapendela/Roshithapendela/main/assets/coding.png" width="220" alt="Profile Cartoon"/>
 
 # Hi 👋, I'm Roshitha Pendela
 
