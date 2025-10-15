@@ -13,7 +13,7 @@
 - 👩‍💻 I love building responsive web apps and solving problems with code
 - 🧠 Interested in **Machine Learning** and **AI**
 - ✍️ I share my thoughts and learnings on [LinkedIn](https://www.linkedin.com/in/pendela-roshitha2)
-- 📫 How to reach me: **roshithapendela@gmail.com**
+- 📫 How to reach me: pendelaroshitha@gmail.com
 
     </td>
     <td width="40%" align="center" valign="top">
@@ -25,7 +25,7 @@
 ---
 
 ### 💻 Skills & Tools
-`Python` • `HTML` • `CSS` • `JavaScript` • `React` • `GitHub` • `Bootstrap`
+`Python` • `HTML` • `CSS` • `JavaScript` • `React` • `GitHub` • `Bootstrap` 
 
 ---
 
@@ -44,6 +44,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoshithaPendela" alt="Profile Views" />
-</p>
