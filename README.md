@@ -45,16 +45,7 @@ I’m deeply interested in **Artificial Intelligence**, **Robotics**, and **Comp
   <img src="https://img.shields.io/badge/Project%20Management-6db33f?style=for-the-badge"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RoshithaPendela&show_icons=true&theme=radical" alt="Roshitha's GitHub stats" width="380"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshithaPendela&layout=compact&theme=radical" alt="Top Languages" width="360"/>
-</div>
-
----
 
 ## 🌐 Let's Connect!
 
