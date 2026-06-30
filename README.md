@@ -11,7 +11,7 @@ Passionate Computer Science Student | AI Enthuasist |Robotics | Problem Solver �
 
 <div align="left">
 
-<img src="assets/download.png" width="220" align="right" alt="Profile Cartoon" style="border-radius: 10px; margin-left: 15px;"/>
+<img src="https://res.cloudinary.com/dryruskd6/image/upload/v1782840998/Pendela_Roshitha.png" width="220" align="right" alt="Profile Cartoon" style="border-radius: 10px; margin-left: 15px;"/>
 
 Hey there! I’m Roshitha Pendela, a passionate **Computer Science student** who loves exploring how technology can make ideas come alive.  
 I’m deeply interested in **Artificial Intelligence**, **Robotics**, and **Computer Vision (OpenCV)** — fields that truly excite my curiosity and creativity.  
